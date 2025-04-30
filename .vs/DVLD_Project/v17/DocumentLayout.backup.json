@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|c:\\users\\dell\\desktop\\dvld\\dvld\\dvld_project\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\dvld_project\\dvld_classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\dvld_classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\dvld_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\dvld_project\\login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\dvld_project\\login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BAEE7A8-ED3E-4DD4-A98E-CB12D4064779}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\login\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\App.config",
+              "RelativeDocumentMoniker": "DVLD_Project\\App.config",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\App.config",
+              "RelativeToolTip": "DVLD_Project\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-30T05:47:06.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\DVLD_Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\DVLD_Classes\\clsGlobal.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\DVLD_Classes\\clsGlobal.cs",
+              "RelativeToolTip": "DVLD_Project\\DVLD_Classes\\clsGlobal.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:44:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\Login\\FormLogin.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Login\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\Login\\FormLogin.cs",
+              "RelativeToolTip": "DVLD_Project\\Login\\FormLogin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:44:24.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\Login\\FormLogin.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Login\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\Login\\FormLogin.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Login\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:44:22.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\FormMain.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\FormMain.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DVLD\\DVLD\\DVLD_Project\\FormMain.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:45:08.171Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
