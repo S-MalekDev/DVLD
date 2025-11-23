@@ -1,60 +1,63 @@
 # Driving License Management System
 
-نظام مكتبي لإدارة رخص القيادة، تم تطويره باستخدام لغة C# وقاعدة بيانات SQL Server.
+[![.NET Framework](https://img.shields.io/badge/.NET-Framework-blue)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)  
+[![C#](https://img.shields.io/badge/language-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+[![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-green)](https://www.microsoft.com/en-us/sql-server)
 
 ---
 
-## 🚀 المتطلبات (Requirements)
-
-- **نظام التشغيل:** Windows
-- **SQL Server:** أي إصدار من SQL Server بما في ذلك SQL Server Express (يتم استخدام SQL Server 2022 في بيئة التطوير)
-- **Visual Studio:** 2022 أو أي إصدار أحدث
-- **.NET Framework:** 4.7.2 أو أحدث
+A desktop application for managing driving licenses, developed using C# with a SQL Server database.
 
 ---
 
-## 🛠️ كيفية التثبيت والتشغيل (Installation & Run)
+## 🚀 Requirements
 
-1. **قم بتحميل المشروع:**
-   - من GitHub: [Download ZIP] أو `git clone`
-
-2. **استيراد قاعدة البيانات:**
-   - إذا كنت ترغب في استخدام السكربت، افتح SQL Server Management Studio.
-   - نفّذ ملف `DVLD_script.sql` داخل قاعدة بيانات جديدة.
-   - إذا كنت تفضل استخدام النسخة الاحتياطية، قم باستعادة قاعدة البيانات باستخدام ملف `DVLD.bak` من خلال SQL Server.
-
-3. **تعديل الاتصال بقاعدة البيانات:**
-   - افتح ملف `App.config` أو `Settings.cs`
-   - غيّر بيانات الاتصال (`ConnectionString`) لتناسب جهازك (اسم السيرفر واسم قاعدة البيانات).
-
-4. **تشغيل البرنامج:**
-   - افتح الحل (Solution) في Visual Studio.
-   - اضغط `Start` لتشغيل البرنامج.
+- **Operating System:** Windows  
+- **SQL Server:** Any edition including SQL Server Express (SQL Server 2022 used in development environment)  
+- **Visual Studio:** 2022 or later  
+- **.NET Framework:** 4.7.2 or higher  
 
 ---
 
-## 💡 ملاحظات مهمة (Important Notes)
+## 🛠️ Installation & Running Instructions
 
-- عند أول تشغيل، تحتاج إلى إضافة معلومات المستخدم وكلمة المرور يدويًا 
-- إذا لم تكن موجودة، سيظهر خطأ عند التشغيل.
-- لتفادي ذلك، تأكد من إضافة اسم المستخدم وكلمة المرور التالية:
+1. **Download the project:**  
+   - From GitHub: [Download ZIP] or clone the repository using `git clone`
 
-- لتسجيل الدخول باستخدام المعلومات الافتراضية:
-  - **Username:** `admin`
+2. **Import the database:**  
+   - To use the script, open SQL Server Management Studio (SSMS) and run the `DVLD_script.sql` file in a new database.  
+   - Alternatively, restore the database using the `DVLD.bak` backup file via SQL Server.
+
+3. **Configure database connection:**  
+   - Open `App.config` or `Settings.cs` file.  
+   - Update the `ConnectionString` to match your server name and database.
+
+4. **Run the application:**  
+   - Open the solution in Visual Studio.  
+   - Press `Start` to launch the program.
+
+---
+
+## 💡 Important Notes
+
+- On the first run, you need to manually add user credentials.  
+- If user info is missing, the program will throw an error on startup.  
+- To avoid this, please ensure you add the following default credentials for login:  
+  - **Username:** `admin`  
   - **Password:** `admin`
 
+---
 
+## 🤝 Contribution
+
+Contributions, suggestions, and improvements are welcome. Feel free to open a Pull Request.
 
 ---
 
-## 🤝 المساهمة (Contribution)
+## 📬 Contact
 
-مرحبًا بأي اقتراحات أو تحسينات، لا تتردد في فتح Pull Request.
+If you have any questions or need support, you can reach out via:  
+- GitHub Issues  
+- Email: sellama.malek.dev@gmail.com
 
 ---
-
-## 📬 التواصل
-
-في حال وجود أي استفسار، يمكنك مراسلتي على:
-- GitHub Issues
-- أو عبر البريد الإلكتروني: sellama.malek.dev@gmail.com
